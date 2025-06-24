@@ -1,4 +1,4 @@
-# Projeto_1 varios testes
+# Testando funcionalidades
 Primeiro versionamento de projeto 
 
 Adicionando alguma coisa
